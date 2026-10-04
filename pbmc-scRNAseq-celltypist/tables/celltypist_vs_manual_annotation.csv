@@ -1,0 +1,8 @@
+cell_type,B cells,CD16+ NK cells,Classical monocytes,Cycling T cells,DC,MAIT cells,Megakaryocytes/platelets,NK cells,Non-classical monocytes,Tcm/Naive cytotoxic T cells,Tcm/Naive helper T cells,Tem/Effector helper T cells,Tem/Trm cytotoxic T cells
+T cells,0,0,0,1,0,21,0,0,0,94,1012,29,11
+Classical monocytes,0,0,412,0,5,0,0,0,77,0,0,0,0
+B cells,345,0,0,0,0,0,0,0,0,0,4,0,0
+GZMK+ cytotoxic T cells,1,4,0,0,0,97,0,151,0,10,48,3,16
+FCGR3A+ monocytes,0,0,2,0,0,0,15,0,153,0,0,0,0
+NK cells,0,126,0,8,0,0,0,14,0,0,0,0,0
+Dendritic cells,0,0,0,0,35,0,0,0,0,0,0,0,0

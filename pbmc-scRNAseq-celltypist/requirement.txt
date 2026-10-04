@@ -1,0 +1,22 @@
+# Core scientific Python
+numpy
+pandas
+scipy
+scikit-learn
+
+# Single-cell RNA-seq
+scanpy
+anndata
+celltypist
+
+# Visualization
+matplotlib
+seaborn
+
+# Clustering
+python-igraph
+leidenalg
+
+# Jupyter / notebooks
+jupyter
+ipykernel
